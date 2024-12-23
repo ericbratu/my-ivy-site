@@ -9,9 +9,9 @@
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>//localhost:1313/about/</link>
+      <link>//localhost:1313/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>//localhost:1313/experience/</guid>
       <description>&lt;h2 id=&#34;software-engineer-intern-village-of-tequesta&#34;&gt;Software Engineer Intern, Village of Tequesta&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;May 2023 - Jul. 2023&lt;/strong&gt;&lt;br&gt;&#xA;Tequesta, FL&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Skills used:&lt;/strong&gt; C++, SQL, AWS S3, REST APIs, Libcurl&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed a C++ automatic data transfer program of employee info from local systems to AWS S3 cloud storage, reducing manual workload.&lt;/li&gt;&#xA;&lt;li&gt;Utilized Libcurl to process data alongside the timesheet software’s REST API.&lt;/li&gt;&#xA;&lt;li&gt;Created an automated subsystem to export data into Excel, enhancing H.R. reporting capabilities.&lt;/li&gt;&#xA;&lt;li&gt;Deployed the program facility-wide, leading to adoption by 100+ employees and achieving an 83% satisfaction rate, ultimately increasing operational efficiency company-wide.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
