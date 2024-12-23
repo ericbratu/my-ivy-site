@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-ivy-site/</loc>
+    <loc>//localhost:60077/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-ivy-site/categories/</loc>
+    <loc>//localhost:60077/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-ivy-site/experience/</loc>
+    <loc>//localhost:60077/experience/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-ivy-site/projects/</loc>
+    <loc>//localhost:60077/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-ivy-site/tags/</loc>
+    <loc>//localhost:60077/tags/</loc>
   </url>
 </urlset>

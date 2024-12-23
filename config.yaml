@@ -1,4 +1,4 @@
-baseurl: "https://ericbratu.github.io/my-ivy-site/"
+baseurl: "/"
 languageCode: en-us
 title: Eric Bratu
 theme: "hugo-ivy"
