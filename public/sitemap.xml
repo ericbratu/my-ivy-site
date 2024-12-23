@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-ivy-site/</loc>
+    <loc>https://ericbratu.github.io/my-ivy-site/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-ivy-site/categories/</loc>
+    <loc>https://ericbratu.github.io/my-ivy-site/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-ivy-site/experience/</loc>
+    <loc>https://ericbratu.github.io/my-ivy-site/experience/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-ivy-site/projects/</loc>
+    <loc>https://ericbratu.github.io/my-ivy-site/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-ivy-site/tags/</loc>
+    <loc>https://ericbratu.github.io/my-ivy-site/tags/</loc>
   </url>
 </urlset>
