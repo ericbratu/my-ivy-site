@@ -18,21 +18,11 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 2
-    - name: "Categories"
-      url: "/categories/"
-      weight: 3
-    - name: "Tags"
-      url: "/tags/"
-      weight: 4
-    - name: "Subscribe"
-      url: "/index.xml"
 
 params:
-  description: "A Hugo theme ported from the static site generator Ivy."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
-  highlightjsLang: ["latex"]
-  highlightjsTheme: "github"
-  highlightjsVersion: "11.7.0"
+  description: "Third-year undergraduate student studying Computer Science at the University of Florida."
+  footer: "<small>© Eric Bratu 2024 |  <a href=\"/EricBratuResume.pdf\" download>Resume</a> | [LinkedIn](https://www.linkedin.com/in/ericbratu/) | [GitHub](https://github.com/ericbratu) | [Instagram](https://www.instagram.com/eric.bratu)"
+
 
 markup:
   highlight:
