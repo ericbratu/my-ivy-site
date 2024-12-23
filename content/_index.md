@@ -7,5 +7,5 @@ I'm passionate about building ingenious fullstack and cloud-based solutions that
 **Skills:**
 
 Languages: Python, C++, JavaScript, HTML, CSS, SQL, MATLAB  
-<br>Tools: Node.js, AWS Lambda, DynamoDB, AWS API Gateway, REST APIs, <br>Git, GitHub Pages, AWS S3, Figma  
+<br>Tools: Node.js, AWS Lambda, DynamoDB, AWS API Gateway, REST APIs, Git, GitHub Pages, AWS S3, Figma  
 <br>Libraries/Frameworks: Django, React, Pandas, Axios, Libcurl, Amazon ASK SDKs, Bootstrap, Leaflet.js
