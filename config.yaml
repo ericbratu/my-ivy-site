@@ -1,7 +1,7 @@
 baseurl: "https://ericbratu.github.io/my-ivy-site/"
 languageCode: en-us
 title: Eric Bratu
-theme: hugo-ivy
+theme: "hugo-ivy"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
 footnotereturnlinkcontents: ↩
