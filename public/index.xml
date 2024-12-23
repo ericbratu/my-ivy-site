@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eric Bratu</title>
-    <link>https://ericbratu.github.io/my-ivy-site/</link>
+    <link>http://localhost:1313/my-ivy-site/</link>
     <description>Recent content on Eric Bratu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://ericbratu.github.io/my-ivy-site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-ivy-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>https://ericbratu.github.io/my-ivy-site/experience/</link>
+      <link>http://localhost:1313/my-ivy-site/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ericbratu.github.io/my-ivy-site/experience/</guid>
+      <guid>http://localhost:1313/my-ivy-site/experience/</guid>
       <description>&lt;h2 id=&#34;software-engineer-intern-village-of-tequesta&#34;&gt;Software Engineer Intern, Village of Tequesta&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;May 2023 - Jul. 2023&lt;/strong&gt;&lt;br&gt;&#xA;Tequesta, FL&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Skills used:&lt;/strong&gt; C++, SQL, AWS S3, REST APIs, Libcurl&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed a C++ automatic data transfer program of employee info from local systems to AWS S3 cloud storage, reducing manual workload.&lt;/li&gt;&#xA;&lt;li&gt;Utilized Libcurl to process data alongside the timesheet software’s REST API.&lt;/li&gt;&#xA;&lt;li&gt;Created an automated subsystem to export data into Excel, enhancing H.R. reporting capabilities.&lt;/li&gt;&#xA;&lt;li&gt;Deployed the program facility-wide, leading to adoption by 100+ employees and achieving an 83% satisfaction rate, ultimately increasing operational efficiency company-wide.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://ericbratu.github.io/my-ivy-site/projects/</link>
+      <link>http://localhost:1313/my-ivy-site/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ericbratu.github.io/my-ivy-site/projects/</guid>
+      <guid>http://localhost:1313/my-ivy-site/projects/</guid>
       <description>&lt;h2 id=&#34;someplace-elsehttpsericbratugithubiosomeplace-else-uf&#34;&gt;&lt;a href=&#34;https://ericbratu.github.io/someplace-else-uf/&#34;&gt;Someplace Else&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Oct. 2024 - Present&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Skills used:&lt;/strong&gt; JavaScript, AWS Lambda, API Gateway, DynamoDB, AWS S3, React.js&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed a full-stack serverless web app using AWS Lambda and API Gateway for backend and DynamoDB for data storage, enabling users to share and explore geotagged locations.&lt;/li&gt;&#xA;&lt;li&gt;Created an interactive map frontend with Leaflet.js by creating custom React components for map rendering and user interactions.&lt;/li&gt;&#xA;&lt;li&gt;Accomplished geospatial data storage using DynamoDB, indexing with Leaflet.js, and AWS S3 for image storage.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;amazon-echo-canvas-assistanthttpsgithubcomericbratucanvas-echo-assistant&#34;&gt;&lt;a href=&#34;https://github.com/ericbratu/Canvas-Echo-Assistant&#34;&gt;Amazon Echo Canvas Assistant&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jun. 2024 - Present&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
