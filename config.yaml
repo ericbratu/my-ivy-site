@@ -15,14 +15,16 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "About"
+    - name: "Experience"
       url: "/about/"
       weight: 2
+    - name: "Projects"
+      url: "/projects/"
+      weight: 3
 
 params:
-  description: "Third-year undergraduate student studying Computer Science at the University of Florida."
-  footer: "<small>© Eric Bratu 2024 |  <a href=\"/EricBratuResume.pdf\" download>Resume</a> | [LinkedIn](https://www.linkedin.com/in/ericbratu/) | [GitHub](https://github.com/ericbratu) | [Instagram](https://www.instagram.com/eric.bratu)"
-
+  description: "CS student at the University of Florida."
+  footer: "<small>© Eric Bratu 2024 |  <a href=\"/EricBratuResume.pdf\" download>Resume</a> | [LinkedIn](https://www.linkedin.com/in/ericbratu/) | [GitHub](https://github.com/ericbratu) | <a href=\"mailto:ericbratu15@gmail.com\">Email</a>"
 
 markup:
   highlight:

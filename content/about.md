@@ -1,10 +1,8 @@
 ---
-title: About Hugo Ivy
+title: Experience
 
 ---
 
-This Hugo theme was ported from [Ivy](https://github.com/dmulholland/ivy), a minimalist website generator built in Python. I don't have time to document this theme. You have to read the source code to understand what it can do. All I can say for now is that I love it. It is clean, minimal, and responsive.
+I'm Eric Bratu. I'm a third-year undergraduate student studying Computer Science at the University of Florida. I am passionate about building ingenious fullstack and cloud-based solutions that make an impact. I also like to redesign products and popular company websites in my free time.
 
-I hope you will enjoy this theme. The source code is [on Github](https://github.com/yihui/hugo-ivy). Happy hacking!
 
-This website is built with [Hugo](https://gohugo.io/), based on [this](https://github.com/yihui/hugo-ivy) theme.
