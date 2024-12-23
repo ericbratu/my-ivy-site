@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:60077/</loc>
+    <loc>//localhost:60240/</loc>
   </url><url>
-    <loc>//localhost:60077/categories/</loc>
+    <loc>//localhost:60240/categories/</loc>
   </url><url>
-    <loc>//localhost:60077/experience/</loc>
+    <loc>//localhost:60240/experience/</loc>
   </url><url>
-    <loc>//localhost:60077/projects/</loc>
+    <loc>//localhost:60240/projects/</loc>
   </url><url>
-    <loc>//localhost:60077/tags/</loc>
+    <loc>//localhost:60240/tags/</loc>
   </url>
 </urlset>
