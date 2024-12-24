@@ -12,6 +12,8 @@ title: Projects
 - Created an interactive map frontend with Leaflet.js by creating custom React components for map rendering and user interactions.
 - Accomplished geospatial data storage using DynamoDB, indexing with Leaflet.js, and AWS S3 for image storage.
 
+---
+
 ## [Amazon Echo Canvas Assistant](https://github.com/ericbratu/Canvas-Echo-Assistant)
 **Jun. 2024 - Present**  
 
@@ -21,6 +23,8 @@ title: Projects
 - Utilized Canvas’ LMS REST API for immediate schedule information retrieval.
 - Enabled serverless processing using AWS Lambda and handled Canvas API requests with API Gateway.
 - Implemented secure login to manage user permissions and protect sensitive academic data.
+
+---
 
 ## [Recipe Finder](https://github.com/ericbratu/Recipe-Finder)
 **Apr. 2024**  
