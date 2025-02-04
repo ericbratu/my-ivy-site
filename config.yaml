@@ -24,7 +24,7 @@ menu:
 
 params:
   description: "CS student at the University of Florida"
-  footer: "<small>© Eric Bratu 2024 | <a href=\"/my-ivy-site/EricBratuResume.pdf\" download>Resume</a> | [LinkedIn](https://www.linkedin.com/in/ericbratu/) | [GitHub](https://github.com/ericbratu) | <a href=\"mailto:ericbratu15@gmail.com\">Email</a>"
+  footer: "<small>© Eric Bratu 2025 | <a href=\"/my-ivy-site/EricBratuResume.pdf\" download>Resume</a> | [LinkedIn](https://www.linkedin.com/in/ericbratu/) | [GitHub](https://github.com/ericbratu) | <a href=\"mailto:ericbratu15@gmail.com\">Email</a>"
 
 markup:
   highlight:
