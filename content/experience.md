@@ -5,7 +5,7 @@ title: Experience
 **May 2025 - Aug. 2025**  
 Santa Barbara, CA  
 
-**Skills used:**  C\#, Python, Git, Bitbucket, Jenkins, Selenium, Agile scrum
+**Skills used:**  C\#, Python, Git, Bitbucket, Jenkins, Selenium, Redis, Agile scrum
 
 - Collaborated in an Agile SDLC to ensure high-quality surgical software delivery through cross-functional communication with PMs, developers, and leadership
 - Leveraged a C\# & Selenium test framework, developed logic for test cases to increase automation coverage by 20%
