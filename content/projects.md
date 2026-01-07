@@ -15,7 +15,7 @@ title: Projects
 ---
 
 ## [Amazon Echo Canvas Assistant](https://github.com/ericbratu/Canvas-Echo-Assistant)
-**Jun. 2024 - Present**  
+**Jun. 2024 - Aug. 2024**  
 
 **Skills used:** Python, AWS Lambda, AWS API Gateway, Canvas REST API  
 
