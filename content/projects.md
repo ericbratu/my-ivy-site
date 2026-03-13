@@ -4,7 +4,7 @@ title: Projects
 ---
 
 ## [Someplace Else](https://ericbratu.github.io/someplace-else-uf/)
-**Oct. 2024 - Present**  
+**Oct. 2024 - April 2025**  
 
 **Skills used:** JavaScript, AWS Lambda, API Gateway, DynamoDB, AWS S3, React.js  
 
