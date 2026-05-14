@@ -1,4 +1,4 @@
-I'm Eric Bratu. I am a fourth-year undergraduate student studying Computer Science at the <span style="color: #0021A5;">University</span><span style="color: #FA4616;"> of Florida</span>.
+I'm Eric Bratu. I am a software engineer and an alumnus of the <span style="color: #0021A5;">University</span><span style="color: #FA4616;"> of Florida's</span> computer science program.
 
 I'm passionate about building ingenious fullstack and cloud-based solutions that make an impact. I also like to redesign products and popular company websites in my free time.
 
