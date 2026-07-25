@@ -3,6 +3,18 @@ title: Projects
 
 ---
 
+## [ALAN: Academic Learning Analysis Network](https://github.com/ericbratu/journal-reviewer-reward-system)
+**Jan. 2026 - May 2026**
+
+**Skills used:** Python, Bittensor, Hugging Face, Docker, FastAPI, Git
+
+- Developed a decentralized Bittensor subnet implementing miner-validator evaluation to incentivize high-quality academic journal peer reviews
+- Deployed and tested a local Subtensor blockchain with Docker, integrating wallet management, subnet registration, and metagraph interactions
+- Engineered LLM-powered validator pipelines to score peer reviews using multi-criteria evaluation and on-chain reward distribution
+- Built data ingestion pipelines using the OpenReview API to preprocess academic review datasets for model evaluation
+
+---
+
 ## [Someplace Else](https://ericbratu.github.io/someplace-else-uf/)
 **Oct. 2024 - April 2025**  
 

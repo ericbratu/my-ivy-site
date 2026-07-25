@@ -1,11 +1,12 @@
 I'm Eric Bratu. I am a software engineer and an alumnus of the <span style="color: #0021A5;">University</span><span style="color: #FA4616;"> of Florida's</span> computer science program.
 
-I'm passionate about building ingenious fullstack and cloud-based solutions that make an impact. I also like to redesign products and popular company websites in my free time.
+I'm passionate about building ingenious solutions that make an impact. I also like to collect vintage Americana and sew/design clothing in my free time
 
 ---
 
 **Skills:**
 
-Languages: Python, C\#, C++, JavaScript, HTML/CSS, SQL  
-<br>Tools: Agile scrum, Git, Node.js, Selenium, AWS Lambda, DynamoDB, AWS API Gateway, REST APIs, Jenkins, Redis, Bitbucket, AWS S3  
-<br>Libraries/Frameworks: Django, React, Pandas, Axios, Libcurl, Amazon ASK SDKs, Bootstrap, Leaflet.js
+Languages: Python, C++, C#, JavaScript, HTML/CSS, SQL
+<br>Tools: Git, Agile Scrum, REST APIs, Selenium, Jenkins, Redis, Bitbucket, Node.js
+<br>Libraries/Frameworks: .NET, Django, React, Pandas, Axios, Libcurl, Amazon ASK SDKs, Bootstrap, Leaflet.js
+<br>Cloud/Platforms: Bittensor, Docker, AWS Lambda, API Gateway, DynamoDB, Amazon S3
