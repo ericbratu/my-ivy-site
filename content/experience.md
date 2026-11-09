@@ -4,7 +4,7 @@ title: Experience
 
 ## Software Development Engineer in Test, Panasonic
 **Oct. 2026 - Present**
-Irvine, CA
+<br>Irvine, CA
 
 **Skills used:** Python, Pytest, Appium, Squish, Playwright, GitLab, Linux
 
