@@ -1,8 +1,19 @@
 ---
 title: Experience
 ---
+
+## Software Development Engineer in Test, Panasonic
+**Oct. 2026 - Present**
+Irvine, CA
+
+**Skills used:** Python, Pytest, Appium, Squish, Playwright, GitLab, Linux
+
+- Engineered automated test software for airline IFE systems spanning 26 feature domains and 375+ test cases using Appium, Squish, and Playwright automation stacks through a shared pytest architecture
+- Built a crash-recovery subsystem in Python using atexit and signal handlers that restores rack hardware state after killed CI sessions, preventing rack blackouts
+
+
 ## Software Development Engineer in Test Intern, Arthrex
-**Jun. 2026 - Current**  
+**Jun. 2026 - Aug. 2026**  
 Santa Barbara, CA  
 
 **Skills used:** Python, Pytesseract, C#, .NET, Git, Bitbucket, Jenkins, Selenium, Agile Scrum
